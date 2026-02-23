@@ -22,7 +22,7 @@
   background-color: #d0d0d0;
 }
 
-.reset-button {
+#reset {
   display: block;
   margin: 20px auto;
   padding: 10px 20px;
@@ -34,6 +34,6 @@
   cursor: pointer;
 }
 
-.reset-button:hover {
+#reset:hover {
   background-color: #0056b3;
 }
